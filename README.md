@@ -1,5 +1,3 @@
-Bem-vindo(a) ao projeto "Financeira Fictícia - Prática de Frontend"!
-
 Este projeto tem como objetivo fornecer um site para uma financeira fictícia, onde posso aplicar e aprimorar meus conhecimentos em Frontend, utilizando tecnologias como Bootstrap, HTML e CSS.
 
 Ao criar este site, busquei desenvolver uma interface atraente e responsiva, que ofereça uma experiência de usuário intuitiva e agradável. Utilizei o Bootstrap para facilitar a criação de layouts e componentes responsivos, garantindo uma aparência consistente em diferentes dispositivos e tamanhos de tela.
@@ -10,4 +8,4 @@ Este projeto é uma oportunidade para aplicar conceitos e técnicas aprendidas e
 
 Sinta-se à vontade para explorar o código-fonte deste projeto e utilizá-lo como referência para seus próprios estudos em Frontend. Espero que este trabalho contribua para seu aprendizado e inspire novas ideias.
 
-Agradeço por visitar este repositório e qualquer feedback ou contribuição será bem vindo.
+<b>Agradeço por visitar este repositório e qualquer feedback ou contribuição será bem vindo.</b>
